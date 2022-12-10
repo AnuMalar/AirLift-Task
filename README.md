@@ -25,8 +25,56 @@
 ---
 
 <br>
-<img src="./assets/Folder_Structure.png" width="400" alt="File_Structure">
+
+## **FrontEnd :**
+<img src="./assets/client.png" width="400" alt="File_Structure">
+
+---
+
+## **BackEnd :**
+
+
+<img src="./assets/server.png" width="400" alt="File_Structure">
+
 
 <br>
 
 ---
+
+
+## **Output :**
+
+<br>
+
+---
+
+## **Home Page :**
+
+
+<img src="./assets/Home.gif" width="400" alt="Output">
+
+<br>
+
+## **Register Page :**
+
+
+<img src="./assets/Register.gif" width="400" alt="Output">
+
+<br>
+
+## **Login Page :**
+
+
+<img src="./assets/Login.gif" width="400" alt="Output">
+
+
+---
+
+
+
+
+
+
+
+
+
