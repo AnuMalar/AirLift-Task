@@ -36,6 +36,12 @@
 
 <img src="./assets/server.png" width="400" alt="File_Structure">
 
+---
+
+## **Database :**
+
+
+<img src="./assets/Database.png" width="400" alt="File_Structure">
 
 <br>
 
