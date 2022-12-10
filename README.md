@@ -27,21 +27,21 @@
 <br>
 
 ## **FrontEnd :**
-<img src="./assets/client.png" width="400" alt="File_Structure">
+<img src="./assets/client.png" width="500" alt="File_Structure">
 
 ---
 
 ## **BackEnd :**
 
 
-<img src="./assets/server.png" width="400" alt="File_Structure">
+<img src="./assets/server.png" width="500" alt="File_Structure">
 
 ---
 
 ## **Database :**
 
 
-<img src="./assets/Database.png" width="400" alt="File_Structure">
+<img src="./assets/Database.png" width="800" alt="File_Structure">
 
 <br>
 
@@ -57,21 +57,21 @@
 ## **Home Page :**
 
 
-<img src="./assets/Home.gif" width="400" alt="Output">
+<img src="./assets/Home.gif" width="800" alt="Output">
 
 <br>
 
 ## **Register Page :**
 
 
-<img src="./assets/Register.gif" width="400" alt="Output">
+<img src="./assets/Register.gif" width="800" alt="Output">
 
 <br>
 
 ## **Login Page :**
 
 
-<img src="./assets/Login.gif" width="400" alt="Output">
+<img src="./assets/Login.gif" width="800" alt="Output">
 
 
 ---
